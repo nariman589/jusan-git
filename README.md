@@ -29,4 +29,13 @@ int main() {
 }
 ```
 
-![alt-text](https://pngimg.com/uploads/bulb/bulb_PNG1250.png "") > Попробуйте реализовать на Python, Go и JavaScript
+> ![alt-text](https://sun1-28.userapi.com/s/v1/ig2/Q05TQw7WQMWQIOY8_aK2PZQkdaXiZiYr9bebJ1tUcOf216oc2kdON_c9EjA6rU6fxwSS79Co6blmd0VXU8dP5MHj.jpg?size=50x0&quality=96&crop=50,70,292,292&ava=1 "") Попробуйте реализовать на Python, Go и JavaScript
+
+## Контакты разработчика (h2)
+Ниже найдете список ссылок для связки с автором.
+| Платформа | Ссылка   | Отвечу за  |
+| --------- |:--------:| -----:|
+| Почта     |[ссылка](https://www.google.com)| 24 часа  |
+| Linkedln  |[ссылка](https://www.google.com)| 3 часа   |
+| WhatsApp  |[ссылка](https://www.google.com)| 30 минут |
+| Telegram  |[ссылка](https://www.google.com)| 5 минут  |
