@@ -10,7 +10,7 @@
 ## Портирование (h2)
 Данный проект можно портировать на другие языки программирования.
 На Java
-```
+```java
 class Main {
 	public static void main(String[] args) {
 		System.out.println("777");
@@ -18,7 +18,7 @@ class Main {
 }
 ```
 На С++
-```
+```c++
 #include <iostream>
 
 using namespace std;
