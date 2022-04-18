@@ -28,3 +28,5 @@ int main() {
 	return 0;
 }
 ```
+
+![alt-text](https://pngimg.com/uploads/bulb/bulb_PNG1250.png "") > Попробуйте реализовать на Python, Go и JavaScript
